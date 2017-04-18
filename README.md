@@ -1,9 +1,14 @@
-# api documentation for  [body (v5.1.0)](https://github.com/Raynos/body)  [![npm package](https://img.shields.io/npm/v/npmdoc-body.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-body.svg)](https://travis-ci.org/npmdoc/node-npmdoc-body)
+# npmdoc-body
+
+#### api documentation for  [body (v5.1.0)](https://github.com/Raynos/body)  [![npm package](https://img.shields.io/npm/v/npmdoc-body.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-body.svg)](https://travis-ci.org/npmdoc/node-npmdoc-body)
+
 #### Body parsing
 
-[![NPM](https://nodei.co/npm/body.png?downloads=true)](https://www.npmjs.com/package/body)
+[![NPM](https://nodei.co/npm/body.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/body)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-body/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-body_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-body/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-body/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-body/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-body/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-body/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-body/build/screenCapture.npmPackageListing.svg)
 
@@ -17,12 +22,10 @@
 
 {
     "author": {
-        "name": "Raynos",
-        "email": "raynos2@gmail.com"
+        "name": "Raynos"
     },
     "bugs": {
-        "url": "https://github.com/Raynos/body/issues",
-        "email": "raynos2@gmail.com"
+        "url": "https://github.com/Raynos/body/issues"
     },
     "contributors": [
         {
@@ -61,13 +64,11 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "raynos",
-            "email": "raynos2@gmail.com"
+            "name": "raynos"
         }
     ],
     "name": "body",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Raynos/body.git"
@@ -78,16 +79,6 @@
     "version": "5.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module body](#apidoc.module.body)
-
-
-
-# <a name="apidoc.module.body"></a>[module body](#apidoc.module.body)
 
 
 
