@@ -1,6 +1,6 @@
 # npmdoc-body
 
-#### api documentation for  [body (v5.1.0)](https://github.com/Raynos/body)  [![npm package](https://img.shields.io/npm/v/npmdoc-body.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-body.svg)](https://travis-ci.org/npmdoc/node-npmdoc-body)
+#### basic api documentation for  [body (v5.1.0)](https://github.com/Raynos/body)  [![npm package](https://img.shields.io/npm/v/npmdoc-body.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-body.svg)](https://travis-ci.org/npmdoc/node-npmdoc-body)
 
 #### Body parsing
 
@@ -76,7 +76,8 @@
     "scripts": {
         "test": "node ./test/index.js"
     },
-    "version": "5.1.0"
+    "version": "5.1.0",
+    "bin": {}
 }
 ```
 
